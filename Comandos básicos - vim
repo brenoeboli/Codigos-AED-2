@@ -1,0 +1,14 @@
+Comandos para o VIM:
+
+1 - Passar do modo de comando para o de Inserção: tecla I
+2 - Sair do modo de inserção: tecla ESC
+3 - criar um novo arquivo - entrar na pasta onde eu quero criar, pelo terminal, depois digitar vim nome-do-arquivo.extensão
+4 - Dentro do modo de inserção basta eu digitar qualquer coisa
+5 - Salvar um arquivo e sair - :wq
+6 - Movimentando-se no arquivo, entre as linhas e letras - Saia do modo de inserção e usar as teclas:h,j, k, i (direita, esquerda, baixo, cima respectivamente)
+7 - Mover para o início do arquivo: pressionar gg
+8 - Mover para o final do arquivo: pressionar G (maiúsculo)
+9 - Acessar uma linha em específico: digitar Número-da-linhaG
+10 - Abrir um arquivo: digitar vim caminho-para-arquivo, AO ABRIR O VIM
+11 - Salvar um arquivo somente: digitar :wq
+
