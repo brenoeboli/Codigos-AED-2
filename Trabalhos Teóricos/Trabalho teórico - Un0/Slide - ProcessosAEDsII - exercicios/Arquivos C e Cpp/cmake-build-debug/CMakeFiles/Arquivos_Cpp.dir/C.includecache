@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/breno/Área de Trabalho/PUCMinas - 2Periodo/AED-2/Repositório Local/Codigos-AED-2/Trabalhos Teóricos/Trabalho teórico - Un0/Slide - ProcessosAEDsII - exercicios/Arquivos Cpp/cmake-build-debug/Exercicio6.c
+stdio.h
+-
+string.h
+-
+

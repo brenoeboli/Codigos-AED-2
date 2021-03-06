@@ -1,0 +1,3 @@
+/home/breno/Área de Trabalho/PUCMinas - 2Periodo/AED-2/Repositório Local/Codigos-AED-2/Trabalhos Teóricos/Trabalho teórico - Un0/Slide - ProcessosAEDsII - exercicios/Arquivos Cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/breno/Área de Trabalho/PUCMinas - 2Periodo/AED-2/Repositório Local/Codigos-AED-2/Trabalhos Teóricos/Trabalho teórico - Un0/Slide - ProcessosAEDsII - exercicios/Arquivos Cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/breno/Área de Trabalho/PUCMinas - 2Periodo/AED-2/Repositório Local/Codigos-AED-2/Trabalhos Teóricos/Trabalho teórico - Un0/Slide - ProcessosAEDsII - exercicios/Arquivos Cpp/cmake-build-debug/CMakeFiles/Arquivos_Cpp.dir

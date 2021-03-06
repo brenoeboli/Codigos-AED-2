@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Arquivos_Cpp.dir/main.cpp.o CMakeFiles/Arquivos_Cpp.dir/Exercicio6.c.o  -o Arquivos_Cpp 
